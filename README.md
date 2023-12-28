@@ -1,4 +1,4 @@
-**<h1 align="center">Hand Tracker 	:raised_hand_with_fingers_splayed:</h1>**
+**<h1 align="center">Hand Tracker 🤚</h1>**
 
 <br/>
 
